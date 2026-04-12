@@ -72,3 +72,33 @@ Ingress manages external HTTP/HTTPS access to services inside the cluster.
 
 Answer:
 HPA automatically scales Pods based on CPU/memory usage.
+
+🔹 15. What is Rolling Update?
+
+Answer:
+Rolling update gradually replaces old Pods with new ones without downtime.
+
+🔹 16. What is DaemonSet?
+
+Answer:
+DaemonSet ensures a Pod runs on all (or selected) nodes.
+
+🔹 17. What is StatefulSet?
+
+Answer:
+StatefulSet is used for stateful applications like databases with stable identity and storage.
+
+🔹 18. What is Persistent Volume (PV)?
+
+Answer:
+PV is a piece of storage in the cluster.
+
+🔹 19. What is Persistent Volume Claim (PVC)?
+
+Answer:
+PVC is a request for storage by a user.
+
+🔹 20. What is kube-apiserver?
+
+Answer:
+It is the main control plane component that exposes Kubernetes API.
