@@ -102,3 +102,30 @@ PVC is a request for storage by a user.
 
 Answer:
 It is the main control plane component that exposes Kubernetes API.
+
+🔹 21. What is etcd?
+
+Answer:
+etcd is a key-value store used to store cluster data.
+
+🔹 22. What is kubelet?
+
+Answer:
+kubelet runs on each node and ensures containers are running in Pods.
+
+🔹 23. What is kube-proxy?
+
+Answer:
+kube-proxy handles networking and load balancing for services.
+
+🔹 24. What is Helm?
+
+Answer:
+Helm is a package manager for Kubernetes used to deploy applications via charts.
+
+🔹 25. What is Taint and Toleration?
+
+Answer:
+
+Taints prevent Pods from being scheduled on nodes
+Tolerations allow Pods to run on tainted nodes
