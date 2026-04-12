@@ -46,3 +46,28 @@ ClusterIP (default)
 NodePort
 LoadBalancer
 ExternalName
+
+🔹 10. What is ConfigMap?
+
+Answer:
+ConfigMap stores non-sensitive configuration data as key-value pairs.
+
+🔹 11. What is Secret?
+
+Answer:
+A Secret stores sensitive data like passwords, tokens, and API keys.
+
+🔹 12. What is Namespace?
+
+Answer:
+Namespace is used to logically separate resources within a cluster.
+
+🔹 13. What is Ingress?
+
+Answer:
+Ingress manages external HTTP/HTTPS access to services inside the cluster.
+
+🔹 14. What is Horizontal Pod Autoscaler (HPA)?
+
+Answer:
+HPA automatically scales Pods based on CPU/memory usage.
