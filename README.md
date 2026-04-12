@@ -14,6 +14,7 @@ Answer:
 
 A container runs an application
 A Pod wraps one or more containers and manages networking & storage
+
 🔹 4. What is a Node?
 
 Answer:
