@@ -44,7 +44,7 @@ A Pod is the smallest deployable unit in Kubernetes. It can contain one or more 
 
 ### ❓ What is a Node?
 **Answer:**  
-A Node is a worker machine (VM or physical server) where Kubernetes runs containers.
+A Node is a worker machine (VM or physical server) where Kubernetes runs containers. It can be a physical server or a virtual machine.
 
 ---
 
