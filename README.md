@@ -50,7 +50,7 @@ A Node is a worker machine (VM or physical server) where Kubernetes runs contain
 
 ### ❓ What is a Cluster?
 **Answer:**  
-A Cluster is a group of nodes managed by Kubernetes.
+A Kubernetes cluster is a group of nodes that work together to run applications. It includes a control plane and worker nodes. 
 
 ---
 
@@ -64,7 +64,7 @@ A Deployment manages Pods and ensures the desired number of replicas are running
 
 ### ❓ What is ReplicaSet?
 **Answer:**  
-ReplicaSet ensures that a specified number of Pod replicas are running at all times.
+A ReplicaSet ensures that a specified number of Pod replicas are always running. If a Pod fails, it automatically creates a new one.
 
 ---
 
